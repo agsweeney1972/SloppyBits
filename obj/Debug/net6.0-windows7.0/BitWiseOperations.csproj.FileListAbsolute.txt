@@ -1,0 +1,16 @@
+C:\Users\agswe\source\repos\BitWireOperations\bin\Debug\net6.0-windows7.0\BitWiseOperations.exe
+C:\Users\agswe\source\repos\BitWireOperations\bin\Debug\net6.0-windows7.0\BitWiseOperations.deps.json
+C:\Users\agswe\source\repos\BitWireOperations\bin\Debug\net6.0-windows7.0\BitWiseOperations.runtimeconfig.json
+C:\Users\agswe\source\repos\BitWireOperations\bin\Debug\net6.0-windows7.0\BitWiseOperations.dll
+C:\Users\agswe\source\repos\BitWireOperations\bin\Debug\net6.0-windows7.0\BitWiseOperations.pdb
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWireOperations.Form1.resources
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.csproj.GenerateResource.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.AssemblyInfoInputs.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.AssemblyInfo.cs
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.csproj.CoreCompileInputs.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.dll
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\refint\BitWiseOperations.dll
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.pdb
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\BitWiseOperations.genruntimeconfig.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Debug\net6.0-windows7.0\ref\BitWiseOperations.dll

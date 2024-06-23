@@ -1,0 +1,15 @@
+C:\Users\agswe\source\repos\BitWireOperations\bin\Release\net8.0-windows7.0\SloppyBits.exe
+C:\Users\agswe\source\repos\BitWireOperations\bin\Release\net8.0-windows7.0\SloppyBits.deps.json
+C:\Users\agswe\source\repos\BitWireOperations\bin\Release\net8.0-windows7.0\SloppyBits.runtimeconfig.json
+C:\Users\agswe\source\repos\BitWireOperations\bin\Release\net8.0-windows7.0\SloppyBits.dll
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.SloppyBits.resources
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.csproj.GenerateResource.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.AssemblyInfoInputs.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.AssemblyInfo.cs
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.csproj.CoreCompileInputs.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.dll
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\refint\SloppyBits.dll
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\SloppyBits.genruntimeconfig.cache
+C:\Users\agswe\source\repos\BitWireOperations\obj\Release\net8.0-windows7.0\ref\SloppyBits.dll
+C:\Users\agswe\source\repos\BitWireOperations\bin\Release\net8.0-windows7.0\SloppyBits.dll.config
