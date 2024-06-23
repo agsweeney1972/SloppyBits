@@ -1,0 +1,1 @@
+C:\Users\agswe\source\repos\BitWireOperations\SloppyBits\bin\Release\net8.0-windows7.0\publish\win-x64\SloppyBits.exe

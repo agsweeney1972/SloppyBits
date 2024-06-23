@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A simple 16bit number converter to aid in programming and working with Ethernet/I" +
     "P data.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+128d223acfbb6aa53499845f9015624170c13f93")]
 [assembly: System.Reflection.AssemblyProductAttribute("SloppyBits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SloppyBits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

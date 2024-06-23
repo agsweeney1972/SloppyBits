@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits.csproj": {}
+    "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits\\SloppyBits.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits.csproj": {
+    "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits\\SloppyBits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits.csproj",
+        "projectUniqueName": "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits\\SloppyBits.csproj",
         "projectName": "SloppyBits",
-        "projectPath": "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits.csproj",
+        "projectPath": "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits\\SloppyBits.csproj",
         "packagesPath": "C:\\Users\\agswe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\obj\\",
+        "outputPath": "C:\\Users\\agswe\\source\\repos\\BitWireOperations\\SloppyBits\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
